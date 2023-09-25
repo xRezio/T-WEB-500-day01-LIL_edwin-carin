@@ -1,3 +1,0 @@
-#!/bin/bash
-
-ls -p -I '.*' -A -m -F | grep -v '/'
